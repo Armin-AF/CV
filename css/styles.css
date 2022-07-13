@@ -1,0 +1,32 @@
+body {
+    background-color: #EEEEEE;
+    align-content: center;
+}
+
+hr {
+    border-color: white;
+    border-style: dotted none none;
+    border-width: 5px;
+    width: 10%;
+
+
+}
+
+h1{
+    color: #222831;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+}
+
+h3{
+    color: #00ADB5;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    text-align: center;
+}
+table{
+    align-self: center;
+    align-items: center;
+}
